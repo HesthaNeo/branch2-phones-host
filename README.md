@@ -24,8 +24,10 @@
                 <img width="1905" height="936" alt="Screenshot 2026-04-18 194259" src="https://github.com/user-attachments/assets/fa8f85cb-6986-41ea-9596-9816797793b4" />
         <h3>Step 2: Access The Branch 2 Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</h3>
                 <img width="872" height="239" alt="Screenshot 2026-04-18 194451" src="https://github.com/user-attachments/assets/cdcd9c09-d9e0-4b49-96df-d74bc12396c2" />
-        <h3>Step 3: On The Branch 1 Voice Router Configure The Two Ephones That Were Just Connected</h3>
-                <img width="873" height="823" alt="Screenshot 2026-04-17 000034" src="https://github.com/user-attachments/assets/6721d78a-fd6f-4700-91c2-5f687d5cf919" />
+        <h3>Step 3: On The HQ Voice Router Configure Two Branch 2 Ephone-DNS And The Two Ephones That Were Just Connected</h3>
+                <img width="871" height="664" alt="Screenshot 2026-04-18 194816" src="https://github.com/user-attachments/assets/a86302fe-65dd-4504-8457-a5ce21a251db" />
+                
+
         <h3>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones</h3>
                 <img width="1749" height="886" alt="Screenshot 2026-04-17 000337" src="https://github.com/user-attachments/assets/a7713800-c59d-4724-9d8a-0683ba0415eb" />
                 <p><em>- We are able to successfully place calls between the branch 1 phones.</em></p>
