@@ -12,18 +12,13 @@
         <p>- C. MAC-Address</p>
         <p>- D. Phone Type</p>
         <p>- E. Button 1</p>
-    <p><b>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones</b></p>
+    <p><b>Step 4: Test Dialing By Extension Between Each Branch Phone, To The HQ Phones, And Branch 1 Phones</b></p>
     <p><b>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</b></p>
     <p><b>Step 6: Test Inbound Dialing To B1 External Phone Number(s) <em>(Lab Configuration Not Supported)</em></b></p>
-    <p><b>Step 7: Connect A Host Directly To Each Of The Two Cisco 7960 VoIP Phones That Were Just Connected To The Network</b></p>
-    <p><b>Step 8: Test Each Host By Pinging Around The Branch 1 Network From Each Host, Between Each Host And To The Headquarters Network And PCs</b></p>
+    <p><b>Step 7: Connect Two Hosts To The Branch 2 Switch</b></p>
+    <p><b>Step 8: Test Each Host By Pinging Around The Branch 2 Network From Each Host, Between Each Host And To The Headquarters Network And PCs</b></p>
     <p><b>Step 9: Test IP Connectivity To The Internet By Pinging Google Server 8.8.8.8</b></p>
     <p><b>Step 10: Test DNS And Website Connectivity By Using The Web Browser On Each Host To Access Www.Google.Com</b></p>
-    <p><b>Step 11: Install And Configure Corporate Wireless Access</b></p>
-        <p>- A. Install An AccessPoint-PT And Connect It To The Branch 1 Access Switch</p>
-        <p>- B. Configure The New AP With A uUnique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
-        <p>- C. Install Two Wireless Tablets And Configure Them With The Same SSID And Passphrase</p>
-        <p>- D. Once The New Wireless Tablets Are Connected Confirm Access To The Corporate Networks And Internet</p>
         <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Connect Two Cisco 7960 VoIP Phones To The Branch 2 Access Switch</h3>
                 <img width="762" height="495" alt="Screenshot 2026-04-16 235639" src="https://github.com/user-attachments/assets/b0152e06-0733-41ba-a312-6724b8e19e45" />
