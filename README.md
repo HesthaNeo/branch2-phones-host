@@ -2,15 +2,16 @@
 <img width="656" height="209" alt="Screenshot 2026-04-16 233649" src="https://github.com/user-attachments/assets/0aea22f3-49f3-4add-941c-cafcb1febb35" />
 </p>
 <h1><u>Milestone 12: Branch 2 Phones & Hosts</u></h1>
-    <p>Eleventh phase, we will install Cisco CP-7960 VoIP phones and connect host computers for testing. The Branch 2 VoIP Phones will connect via the HQ Voice Router as no voice services are configured on the Branch 2 router..</p>
+    <p>Eleventh phase, we will install Cisco CP-7960 VoIP phones and connect host computers for testing. The Branch 2 VoIP Phones will connect via the HQ Voice Router as no voice services are configured on the Branch 2 router.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
     <p><b>Step 1: Connect Two Cisco 7960 VoIP Phones To The Branch 1 Access Switch</b></p>
-    <p><b>Step 2: Access The Branch 1 Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</b></p>
-    <p><b>Step 3: On The Branch 1 Voice Router Configure The Two Ephones That Were Just Connected</b></p>
-        <p>- A. Ephone 1, Ephone 2</p>
-        <p>- B. MAC-Address</p>
-        <p>- C. Phone Type</p>
-        <p>- D. Button 1</p>
+    <p><b>Step 2: Access The Branch 2 Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</b></p>
+    <p><b>Step 3: On The HQ Voice Router Configure The Two Ephones That Were Just Connected</b></p>
+        <p>- A. x3001, x3002</p>
+        <p>- B. Ephone 4, Ephone 5</p>
+        <p>- C. MAC-Address</p>
+        <p>- D. Phone Type</p>
+        <p>- E. Button 1</p>
     <p><b>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones</b></p>
     <p><b>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</b></p>
     <p><b>Step 6: Test Inbound Dialing To B1 External Phone Number(s) <em>(Lab Configuration Not Supported)</em></b></p>
@@ -24,7 +25,7 @@
         <p>- C. Install Two Wireless Tablets And Configure Them With The Same SSID And Passphrase</p>
         <p>- D. Once The New Wireless Tablets Are Connected Confirm Access To The Corporate Networks And Internet</p>
         <h2><strong><u>Implementation</u></strong></h2>
-        <h3>Step 1: Connect Two Cisco 7960 VoIP Phones To The Branch 1 Access Switch</h3>
+        <h3>Step 1: Connect Two Cisco 7960 VoIP Phones To The Branch 2 Access Switch</h3>
                 <img width="762" height="495" alt="Screenshot 2026-04-16 235639" src="https://github.com/user-attachments/assets/b0152e06-0733-41ba-a312-6724b8e19e45" />
         <h3>Step 2: Access The Branch 1 Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</h3>
                 <img width="869" height="240" alt="Screenshot 2026-04-16 235828" src="https://github.com/user-attachments/assets/9eca259a-b329-42ac-b1d5-f0bd2e494139" />
