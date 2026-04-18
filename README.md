@@ -23,7 +23,7 @@
         <h3>Step 1: Connect Two Cisco 7960 VoIP Phones To The Branch 2 Access Switch</h3>
                 <img width="1905" height="936" alt="Screenshot 2026-04-18 194259" src="https://github.com/user-attachments/assets/fa8f85cb-6986-41ea-9596-9816797793b4" />
         <h3>Step 2: Access The Branch 2 Router CLI And View The DHCP Bindings For Each Phone, Obtaining The MAC-Address Of Each Phone</h3>
-                <img width="869" height="240" alt="Screenshot 2026-04-16 235828" src="https://github.com/user-attachments/assets/9eca259a-b329-42ac-b1d5-f0bd2e494139" />
+                <img width="872" height="239" alt="Screenshot 2026-04-18 194451" src="https://github.com/user-attachments/assets/cdcd9c09-d9e0-4b49-96df-d74bc12396c2" />
         <h3>Step 3: On The Branch 1 Voice Router Configure The Two Ephones That Were Just Connected</h3>
                 <img width="873" height="823" alt="Screenshot 2026-04-17 000034" src="https://github.com/user-attachments/assets/6721d78a-fd6f-4700-91c2-5f687d5cf919" />
         <h3>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones</h3>
