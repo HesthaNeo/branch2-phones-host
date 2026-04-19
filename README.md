@@ -47,7 +47,7 @@
         <h3>Step 10: Test DNS And Website Connectivity By Using The Web Browser On Each Host To Access Www.Google.Com</h3>
                 <img width="538" height="647" alt="Screenshot 2026-04-18 203041" src="https://github.com/user-attachments/assets/75390712-aff3-489d-8474-7f5906ed3247" />
                 <img width="563" height="671" alt="Screenshot 2026-04-18 203118" src="https://github.com/user-attachments/assets/4a01a1d0-6fb8-4ecd-ae0a-5cfecaf5c98d" />
-                <p><em>- Successful.</em></p>
+                <p><em>- Successful. Our entire network for the company is now up and running.</em></p>
 
 
 
