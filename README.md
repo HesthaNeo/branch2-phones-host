@@ -43,9 +43,7 @@
         <h3>Step 8: Test Each Host By Pinging Around The Branch 2 Network From Each Host, Between Each Host And To The Headquarters Network And PCs</h3>
                 <img width="866" height="1586" alt="Screenshot 2026-04-18 201911" src="https://github.com/user-attachments/assets/4dd69934-396f-4032-8eda-2cebe052663b" />
                 <img width="873" height="1597" alt="Screenshot 2026-04-18 202112" src="https://github.com/user-attachments/assets/e2da0a87-a3a3-45a5-aed8-0f73be34da8a" />
-
-
-                <p><em>- On both hosts we are able to successfully ping 192.168.30.1 (default gateway), 192.168.10.100 (the HQ-Core Switch Data network gateway at HQ), 192.168.10.50 (the HQ-Server), and both google's DNS server by IP and hostname.</em></p>
+                <p><em>- On both hosts we are able to successfully ping 192.168.30.1 (default gateway), 192.168.10.100 (the HQ-Core Switch Data network gateway at HQ. Also The ping to HQ should initiate the IPSec VPN automatically. This can be confirmed by successful ping replies and also by connecting to the CLI on B2-RTR and running the command “show crypto isakmp sa”.), 192.168.10.50 (the HQ-Server), and both google's DNS server by IP and hostname.</em></p>
         <h3>Step 10: Test DNS And Website Connectivity By Using The Web Browser On Each Host To Access Www.Google.Com</h3>
                 <img width="524" height="682" alt="Screenshot 2026-04-17 002316" src="https://github.com/user-attachments/assets/68e5ff3c-5682-40d6-a405-f14f3c521d80" />
                 <img width="560" height="715" alt="Screenshot 2026-04-17 002346" src="https://github.com/user-attachments/assets/468b30ed-2d5f-4be9-bb11-9aff0185baee" />
