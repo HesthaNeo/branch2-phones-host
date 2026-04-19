@@ -38,8 +38,8 @@
                 <img width="1748" height="882" alt="Screenshot 2026-04-18 201235" src="https://github.com/user-attachments/assets/ab49ccfe-8224-49ff-ac27-e3c47ec81d5d" />
                 <p><em>- We are able to successfully place calls to the PSTN.</em></p>
         <h3>Step 6: Test Inbound Dialing To B1 External Phone Number(s) <em>(Lab Configuration Not Supported)</em></h3>
-        <h3>Step 7: Connect A Host Directly To Each Of The Two Cisco 7960 VoIP Phones That Were Just Connected To The Network</h3>
-                <img width="758" height="494" alt="Screenshot 2026-04-17 001606" src="https://github.com/user-attachments/assets/283ea139-330f-4d65-b754-ab8d70d7a616" />
+        <h3>Step 7: Connect Two Hosts To The Branch 2 Switch</h3>
+                <img width="1875" height="884" alt="Screenshot 2026-04-18 201524" src="https://github.com/user-attachments/assets/2ce3996d-a444-47a4-9564-01933b251538" />
         <h3>Step 8: Test Each Host By Pinging Around The Branch 1 Network From Each Host, Between Each Host And To The Headquarters Network And PCs</h3>
                 <img width="872" height="1318" alt="Screenshot 2026-04-17 001920" src="https://github.com/user-attachments/assets/a1d7a9e8-b075-44c8-a06f-548d7253e0e1" />
                 <img width="872" height="1316" alt="Screenshot 2026-04-17 002041" src="https://github.com/user-attachments/assets/49211c4c-7f85-4f2f-9b20-12b7b72fba30" />
