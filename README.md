@@ -27,9 +27,9 @@
         <h3>Step 3: On The HQ Voice Router Configure Two Branch 2 Ephone-DNS And The Two Ephones That Were Just Connected</h3>
                 <img width="871" height="664" alt="Screenshot 2026-04-18 194816" src="https://github.com/user-attachments/assets/a86302fe-65dd-4504-8457-a5ce21a251db" />
                 <img width="868" height="1066" alt="Screenshot 2026-04-18 200412" src="https://github.com/user-attachments/assets/6a014fd5-610d-455f-990c-7a11d60d1534" />
-        <h3>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones</h3>
-                <img width="1749" height="886" alt="Screenshot 2026-04-17 000337" src="https://github.com/user-attachments/assets/a7713800-c59d-4724-9d8a-0683ba0415eb" />
-                <p><em>- We are able to successfully place calls between the branch 1 phones.</em></p>
+        <h3>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones, And Branch 1 Phones</h3>
+                <img width="1754" height="883" alt="Screenshot 2026-04-18 200747" src="https://github.com/user-attachments/assets/b37c688a-8713-442b-8c2b-8200d13122c2" />
+                <p><em>- We are able to successfully place calls between the branch 2 phones.</em></p>
                 <img width="1748" height="883" alt="Screenshot 2026-04-17 001240" src="https://github.com/user-attachments/assets/d4928e98-fc49-40cb-bc05-5d7f9b35001f" />
                 <p><em>- We are able to successfully place calls to the HQ from branch 1.</em></p>
         <h3>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</h3>
