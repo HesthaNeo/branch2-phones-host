@@ -30,8 +30,8 @@
         <h3>Step 4: Test Dialing By Extension Between Each Branch Phone And To The HQ Phones, And Branch 1 Phones</h3>
                 <img width="1754" height="883" alt="Screenshot 2026-04-18 200747" src="https://github.com/user-attachments/assets/b37c688a-8713-442b-8c2b-8200d13122c2" />
                 <p><em>- We are able to successfully place calls between the branch 2 phones.</em></p>
-                <img width="1748" height="883" alt="Screenshot 2026-04-17 001240" src="https://github.com/user-attachments/assets/d4928e98-fc49-40cb-bc05-5d7f9b35001f" />
-                <p><em>- We are able to successfully place calls to the HQ from branch 1.</em></p>
+                <img width="1754" height="869" alt="Screenshot 2026-04-18 200942" src="https://github.com/user-attachments/assets/59f125f9-02fb-475e-a9f4-b9bbdc90aca0" />
+                <p><em>- We are able to successfully place calls to the HQ from branch 2.</em></p>
         <h3>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</h3>
                 <img width="1739" height="880" alt="Screenshot 2026-04-17 000508" src="https://github.com/user-attachments/assets/bc927172-781e-4db3-b9eb-b77c1c7c7c6a" />
                 <p><em>- We are able to successfully place calls to the PSTN.</em></p>
