@@ -34,9 +34,8 @@
                 <p><em>- We are able to successfully place calls to the HQ from branch 2.</em></p>
                 <img width="1753" height="882" alt="Screenshot 2026-04-18 201105" src="https://github.com/user-attachments/assets/7999069a-e4d2-4005-b6b9-07e9f54e56f9" />
                 <p><em>- We are able to successfully place calls to branch 1 from branch 2.</em></p>
-
         <h3>Step 5: Test Outbound Dialing To The PSTN Test Phone 8885551111</h3>
-                <img width="1739" height="880" alt="Screenshot 2026-04-17 000508" src="https://github.com/user-attachments/assets/bc927172-781e-4db3-b9eb-b77c1c7c7c6a" />
+                <img width="1748" height="882" alt="Screenshot 2026-04-18 201235" src="https://github.com/user-attachments/assets/ab49ccfe-8224-49ff-ac27-e3c47ec81d5d" />
                 <p><em>- We are able to successfully place calls to the PSTN.</em></p>
         <h3>Step 6: Test Inbound Dialing To B1 External Phone Number(s) <em>(Lab Configuration Not Supported)</em></h3>
         <h3>Step 7: Connect A Host Directly To Each Of The Two Cisco 7960 VoIP Phones That Were Just Connected To The Network</h3>
